@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"office.json"
+        }
+    },
  "height":21,
  "infinite":false,
  "layers":[
@@ -730,11 +738,11 @@
                 {
                  "animation":[
                         {
-                         "duration":250,
+                         "duration":100,
                          "tileid":86
                         }, 
                         {
-                         "duration":250,
+                         "duration":100,
                          "tileid":87
                         }],
                  "id":86
@@ -745,6 +753,4 @@
  "type":"map",
  "version":"1.10",
  "width":31
-
 }
-
