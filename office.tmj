@@ -718,7 +718,7 @@
         {
          "columns":14,
          "firstgid":2956,
-         "image":"..\/Tilesets\/interior mixed styles\/Camping_Set\/Camping_Furnitureset.png",
+         "image":"..\/Tilesets\/Camping_Furnitureset.png",
          "imageheight":448,
          "imagewidth":448,
          "margin":0,
@@ -745,4 +745,5 @@
  "type":"map",
  "version":"1.10",
  "width":31
+
 }
